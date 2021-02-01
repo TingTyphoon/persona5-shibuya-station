@@ -1,5 +1,7 @@
 # Persona 5 Desktop: Ann at Shibuya Station 
 
+<td width="50%"><img src="Preview.png" width="100%"></td>
+
 [![GitHub release](https://img.shields.io/github/release/TingTyphoon/persona-5-desktop-shibuya-station.svg?colorB=007EC6)](https://github.com/TingTyphoon/persona-5-desktop-shibuya-station/releases/latest)
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
@@ -10,7 +12,6 @@ This is the repo for a fan-made, Persona 5-inspired Windows setup using Rainmete
 * Included Rainmeter skins are either ones that I have coded (found in the "P5 Ann Shibuya Station" folder) or modified (see <a href= #credits>credits</a> below). 
 * Best with 1920x1080 resolution, other sizes may vary in quality.
 
-<td width="50%"><img src="Preview.png" width="100%"></td>
 <h3>Setup</h3> 
 
 1. Install the latest version of Rainmeter here: https://www.rainmeter.net/.  
