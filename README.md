@@ -23,8 +23,8 @@ This is the repo for a fan-made, Persona 5-inspired Windows setup using Rainmete
 
 * <a href= https://www.deviantart.com/j3romey/art/P5R-Calendar-1-1-2-845538222>Calendar Widget</a> — "P5R Calendar" by <a href= https://github.com/j3romey>j3romey</a>
 * <a href= https://twitter.com/5114Ave/status/939811586151034881>Original Art (Wallpaper)</a> — "Ann Takamaki Waiting at Shibuya Station" by <a href= https://twitter.com/5114ave>@5114Ave </a>
-* <a href= https://steamcommunity.com/sharedfiles/filedetails/?id=1916540543>Wallpaper Engine</a> — Live wallpaper by Austin H.</a>
-* <a href= https://www.spriters-resource.com/playstation_3/persona5/>Various Persona 5 sprites and audio</a> — The Spriters Resource
+* <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1916540543">Wallpaper Engine</a> — Live wallpaper by Austin H.
+* Various Persona 5 <a href= https://www.spriters-resource.com/playstation_3/persona5/>sprites</a> and <a href=https://www.sounds-resource.com/playstation_3/persona5/>audio</a> — The Spriters Resource and Sounds Resource
 * <a href= https://openweathermap.org>Weather API</a> — OpenWeatherMap
   
 <h3>Brief Disclaimers</h3>
